@@ -1,0 +1,20 @@
+# My First GitHub Project
+
+Project Name: Student Information System
+
+This is my first file created for GitHub practice.
+
+## Student Details
+Name: Adhavan
+Department: Engineering
+Purpose: Learning Git and GitHub
+
+## What I Learned
+1. Creating a file in VS Code.
+2. Initializing a Git repository.
+3. Adding files using git add.
+4. Committing changes using git commit.
+5. Pushing files to GitHub.
+
+## Status
+GitHub practice project in progress.
